@@ -1,2 +1,3 @@
 # Collaborons
-exercice de groupe
+> # exercice de groupe
+>> ## faire un planning
