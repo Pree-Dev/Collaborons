@@ -10,3 +10,7 @@
 ## Est-ce que tu peux m'aider à corriger cet article?
 
 ## Je suis vraiment désolée de te faire une demande comme ça, mais je n'ai pas le choix.
+
+## Je pense qu'on doit fusioner les deux dossiers. Mais je sais pas comment fusionner.
+
+### Thank you for your help. I don't know how to modify this program. so I hope you can help me once more.
