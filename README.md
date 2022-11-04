@@ -14,3 +14,6 @@
 ## Je pense qu'on doit fusioner les deux dossiers. Mais je sais pas comment fairegit .
 
 ### Thank you for your help. I don't know how to modify this program. so I hope you can help me once more.
+
+> ## It is a bird?
+>> ## no, it is a dragon.
