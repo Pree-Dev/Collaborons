@@ -6,4 +6,5 @@
 ### premier chapitre
 
 ### I have seen you yesterday. Are you Ok?
-git 
+
+## Est-ce que tu peux m'aider à corriger cet article?
